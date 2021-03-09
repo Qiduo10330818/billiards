@@ -11,7 +11,7 @@ m = 171E-3
 size = 5.715E-2/2
 mu_r = 0.01 # rolling friction
 mu_k = 0.20
-flr_resti_coe = 0.5
+flr_resti_coe = 0.5 # resistance coefficient
 zero = vector(0, 0 ,0)
 r = vector(0, -size, 0)
 
